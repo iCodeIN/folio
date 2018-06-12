@@ -1,0 +1,8 @@
+[package]
+name = "folio"
+version = "0.0.0"
+authors = ["Stephan Boyer <stephan@stephanboyer.com>"]
+description = "A purely functional static site generator."
+license = "MIT"
+
+[dependencies]
